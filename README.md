@@ -18,11 +18,13 @@ Print the rotated list
 ### Step 6: 
 End the program
 ## Program:
-ef circulate():
+~~~
+def circulate(): 
+    num1=[10,20,30,40,50,60]
     n=int(input())
-    l=[10,20,30,40,50,60]
-    l=l[n:]+l[:n]
-    print("After circulating the values are:",l)
+    num1=num1[n:]+num1[:n]
+    print("After circulating the values are:",num1)
+~~~
 ## Output:
 ![GitHub Logo](assignment2.png)
 ## Result:
