@@ -28,4 +28,4 @@ def circulate():
 ## Output:
 ![GitHub Logo](assignment2.png)
 ## Result:
-Thus the swapping of two values are successfully executed
+Thus, a python program to circulate the n variables using function concept is executed successfully.
